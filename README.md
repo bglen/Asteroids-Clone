@@ -1,4 +1,4 @@
 Asteroids-Clone
 ===============
 
-Simple Asteroids Clone written in Javascript
+Simple Asteroids Clone written in Javascript.
